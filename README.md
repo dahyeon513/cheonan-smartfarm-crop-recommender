@@ -39,6 +39,7 @@
 ---
 
 ## 📁 Project Structure
+```
 smartfarm-crop-recommendation/
 ├─ notebooks/
 │  ├── pest_crawling.ipynb         # 병해충 데이터 수집
@@ -47,6 +48,7 @@ smartfarm-crop-recommendation/
 ├─ data/
 │  └── README.md                   # 데이터 출처 (원본은 포함하지 않음)
 └─ README.md
+```
 
 ---
 
